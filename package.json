@@ -1,0 +1,26 @@
+{
+  "name": "ecommers_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua-DaCosta/ecommers_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshua-DaCosta/ecommers_api/issues"
+  },
+  "homepage": "https://github.com/Joshua-DaCosta/ecommers_api#readme",
+  "dependencies": {
+    "dotenv": "^13.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
